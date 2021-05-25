@@ -5,10 +5,14 @@ git commit -m "first change" (changes are locked)
 git branch (current branch in green color)
 git checkout -b newbranch (create new branch)/git branch newbranch
 git checkout dev (To change branch)
-git checkout -d newbranch (To delete branch)
+git checkout -d newbranch (To delete branch,go to main branch and then try deleting)
 To merge two branch
 1.first go to master branch ---git checkout master
 2. git merge newBranch 
 
 -----------------------------
 git push --set-upstream origin newbranch
+
+
+git log   ----------shows all logs
+git show commit-id(which you will get in git log)---shows changes in that 
