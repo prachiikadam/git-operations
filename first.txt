@@ -17,7 +17,3 @@ git push --set-upstream origin newbranch
 git log   ----------shows all logs
 git show commit-id(which you will get in git log)---shows changes in that 
 
-
-git merge ----(to merge branch to origin branch first go to main branch then execute this commands)
-
----------------
