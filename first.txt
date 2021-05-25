@@ -16,3 +16,4 @@ git push --set-upstream origin newbranch
 
 git log   ----------shows all logs
 git show commit-id(which you will get in git log)---shows changes in that 
+
